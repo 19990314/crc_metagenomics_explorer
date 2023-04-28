@@ -1,1 +1,3 @@
-# crc_metagenomics_explorer
+# Colorectal Cancer Metagenomics Explorer
+
+Stomach is thought to be the second brain of human beings. Not only digestion, it can play an important role in mental and body health. There is evidence suggesting that it also plays a crucial role in the pathogenesis of colorectal cancer (CRC). Recent studies have identified specific bacterial species and microbial functions that are associated with colorectal cancer. Through my previous research, I have identified some species (such as Phocaeicola vulgatus and Bacteroides fragilis) from the feces microgenomes of healthy people. In this project, I aim to focus on the gene/protein function annotations and anticipate drawing its differences among healthy versus CRC populations.
